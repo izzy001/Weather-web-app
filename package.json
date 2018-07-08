@@ -1,0 +1,31 @@
+{
+  "name": "weather-website",
+  "version": "1.0.0",
+  "description": "A web app where users can type in a city name and get real-time weather data instantly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzy001/Weather-web-app.git"
+  },
+  "keywords": [
+    "web-app",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Emoitologa Israel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izzy001/Weather-web-app/issues"
+  },
+  "homepage": "https://github.com/izzy001/Weather-web-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
